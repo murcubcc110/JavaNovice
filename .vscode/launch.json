@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Java CLI - 通常起動",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaNovice",
+            // 対話モード（Scanner）を正しく動作させるために統合ターミナルを使用
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Java CLI - 引数付き起動 (--name Taro)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaNovice",
+            "args": ["--name", "Taro"],
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Java CLI - 対話モード起動",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaNovice",
+            "args": ["--interactive"],
+            "console": "integratedTerminal"
+        }
+    ]
+}
