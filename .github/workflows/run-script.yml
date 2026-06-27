@@ -3,7 +3,7 @@ name: Run Python Script Regular
 on:
   schedule:
     # 毎日午前9時（日本時間）に実行する設定 (UTCでは午前0時)
-    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'
   # 手動でも実行できるようにする設定（テスト用に便利）
   workflow_dispatch:
 
