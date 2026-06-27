@@ -32,3 +32,11 @@ jobs:
     - name: Run script
       run: python main.py
 
+    # 5. 生成された log.txt をリポジトリに自動コミットしてプッシュする
+    - name: Commit and Push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add log.txt
+        git commit -m "Update log.txt by GitHub Actions [skip ci]" || echo "No changes to commit"
+        git push
