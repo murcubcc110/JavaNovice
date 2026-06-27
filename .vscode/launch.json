@@ -3,11 +3,17 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimitiveAndGenericsDemo",
+            "request": "launch",
+            "mainClass": "PrimitiveAndGenericsDemo",
+            "projectName": "JavaNovice_100f75e8"
+        },
+        {
+            "type": "java",
             "name": "Java CLI - 通常起動",
             "request": "launch",
             "mainClass": "Main",
             "projectName": "JavaNovice",
-            // 対話モード（Scanner）を正しく動作させるために統合ターミナルを使用
             "console": "integratedTerminal"
         },
         {
@@ -16,7 +22,10 @@
             "request": "launch",
             "mainClass": "Main",
             "projectName": "JavaNovice",
-            "args": ["--name", "Taro"],
+            "args": [
+                "--name",
+                "Taro"
+            ],
             "console": "integratedTerminal"
         },
         {
@@ -25,7 +34,9 @@
             "request": "launch",
             "mainClass": "Main",
             "projectName": "JavaNovice",
-            "args": ["--interactive"],
+            "args": [
+                "--interactive"
+            ],
             "console": "integratedTerminal"
         }
     ]
