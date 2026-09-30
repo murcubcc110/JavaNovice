@@ -1,55 +1,51 @@
-GitHub Actions 動作確認成功！実行日時 (JST): 2026-09-29 17:18:38
+GitHub Actions 動作確認成功！実行日時 (JST): 2026-09-30 17:19:09
 
 【MacBook Air M5 整備済製品 販売情報】
 1. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
    価格: 223,800円
    型番: FDV94J/A
-   URL: https://www.apple.com/jp/shop/product/fdv94j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
+   URL: https://www.apple.com/jp/shop/product/fdv94j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
 2. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト
    価格: 223,800円
    型番: FDVD4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvd4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-3. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト
-   価格: 223,800円
-   型番: FDVH4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvh4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-4. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
+   URL: https://www.apple.com/jp/shop/product/fdvd4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+3. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
    価格: 223,800円
    型番: FDVQ4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvq4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-5. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
+   URL: https://www.apple.com/jp/shop/product/fdvq4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+4. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
    価格: 270,800円
    型番: FDVA4J/A
-   URL: https://www.apple.com/jp/shop/product/fdva4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-6. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト
+   URL: https://www.apple.com/jp/shop/product/fdva4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+5. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト
    価格: 270,800円
    型番: FDVE4J/A
-   URL: https://www.apple.com/jp/shop/product/fdve4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-7. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト
+   URL: https://www.apple.com/jp/shop/product/fdve4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+6. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト
    価格: 270,800円
    型番: FDVK4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvk4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-8. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
+   URL: https://www.apple.com/jp/shop/product/fdvk4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+7. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
    価格: 270,800円
    型番: FDVT4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvt4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-9. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
+   URL: https://www.apple.com/jp/shop/product/fdvt4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+8. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
    価格: 301,800円
    型番: FDVC4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvc4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-10. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト
+   URL: https://www.apple.com/jp/shop/product/fdvc4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+9. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト
    価格: 301,800円
    型番: FDVF4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvf4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-11. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト
+   URL: https://www.apple.com/jp/shop/product/fdvf4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+10. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト
    価格: 301,800円
    型番: FDVN4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvn4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-12. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
+   URL: https://www.apple.com/jp/shop/product/fdvn4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+11. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
    価格: 301,800円
    型番: FDVU4J/A
-   URL: https://www.apple.com/jp/shop/product/fdvu4j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
-13. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
+   URL: https://www.apple.com/jp/shop/product/fdvu4j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
+12. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
    価格: 377,800円
    型番: G1LS0J/A
-   URL: https://www.apple.com/jp/shop/product/g1ls0j/a?fnode=8a88b451a9cec50c6cc2f75084b24d4b8d70e7e4f134f07fddb11ac5c81dd19faa083e81bdd553924e5fd5e1753f100c6ec54f47ccc385b7efd6571e137bb98b7dd68cb8c20edfa10d135e7254c788c2
+   URL: https://www.apple.com/jp/shop/product/g1ls0j/a?fnode=87c3a4ddbe8370daa84cb56d854aba4dfe2c55944adea83dafc0b580b6ba322b8d52315dcbbbfab1410ee6ee39b3fd5faadda101fb7a68955c4bb409ed0ded39b5f09ae52c19324c614a29c43dcfabda
