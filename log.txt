@@ -1,3 +1,31 @@
-GitHub Actions 動作確認成功！実行日時 (JST): 2026-10-16 16:01:00
+GitHub Actions 動作確認成功！実行日時 (JST): 2026-10-17 15:50:18
 
-現在、MacBook Air M5 の整備済製品の在庫はありません。
+【MacBook Air M5 整備済製品 販売情報】
+1. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
+   価格: 223,800円
+   型番: FDV94J/A
+   URL: https://www.apple.com/jp/shop/product/fdv94j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
+2. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
+   価格: 223,800円
+   型番: FDVQ4J/A
+   URL: https://www.apple.com/jp/shop/product/fdvq4j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
+3. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
+   価格: 270,800円
+   型番: FDVA4J/A
+   URL: https://www.apple.com/jp/shop/product/fdva4j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
+4. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スターライト
+   価格: 270,800円
+   型番: FDVE4J/A
+   URL: https://www.apple.com/jp/shop/product/fdve4j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
+5. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - ミッドナイト
+   価格: 270,800円
+   型番: FDVK4J/A
+   URL: https://www.apple.com/jp/shop/product/fdvk4j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
+6. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - スカイブルー
+   価格: 270,800円
+   型番: FDVT4J/A
+   URL: https://www.apple.com/jp/shop/product/fdvt4j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
+7. 15インチMacBook Air [整備済製品] 10コアCPUと10コアGPUを搭載したApple M5チップ - シルバー
+   価格: 301,800円
+   型番: FDVC4J/A
+   URL: https://www.apple.com/jp/shop/product/fdvc4j/a?fnode=5065a9e9034318290448f9a152eb1a9c9326e5460259cb2d76d006e69a2052894a8407e983ab27d5a6a0f38c41546ac1d7dd8ab716dd8b06c6385dfd9f92f62e2cb7d4b4bf5bc6caf1ac77c47bcbf4a7
